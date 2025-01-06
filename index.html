@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather Dashboard</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: bisque;
+      }
+      #weather-container {
+        margin-top: 20px;
+      }
+      button {
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: #e88132;
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>☁️ Weather Dashboard ☁️</h1>
+    <button onclick="fetchS3Data()">What's the Weather Like?</button>
+
+    <div id="weather-container"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
