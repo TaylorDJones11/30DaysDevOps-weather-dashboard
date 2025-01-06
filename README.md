@@ -2,15 +2,17 @@
 
 ## **Day 1: Building a Weather Data Collection System Using AWS S3 and OpenWeather API**  
 
-## 👩🏽‍💻 Blog
-
 This project is a **Weather Data Collection System** that demonstrates **core DevOps principles** while extending functionality with a **frontend dashboard** to visualize stored weather data. It integrates:  
 
 - **External API Integration** (OpenWeather API)  
 - **Cloud Storage** (AWS S3)  
 - **Version Control** (Git & GitHub Actions)  
 - **Serverless Backend** (AWS Lambda)  
-- **Dynamic Frontend** (JavaScript-based UI)  
+- **Dynamic Frontend** (JavaScript-based UI)
+
+## 👩🏽‍💻 Blog
+
+- [Day 1](https://dev.to/onetayjones/day-1-of-my-30-day-devops-challenge-building-a-cloud-powered-weather-dashboard-3h55) 
 
 
 ## 🚀 Features  
