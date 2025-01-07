@@ -11,6 +11,7 @@ This project is a **Weather Data Collection System** that demonstrates **core De
 - **Dynamic Frontend** (JavaScript-based UI)
 
 ## 👩🏽‍💻 Blog
+<img width="490" alt="Screenshot 2025-01-06 at 11 20 44" src="https://github.com/user-attachments/assets/85847fd0-49a2-46e8-b7cf-fb8117e3cfa0" />
 
 - [Day 1](https://dev.to/onetayjones/day-1-of-my-30-day-devops-challenge-building-a-cloud-powered-weather-dashboard-3h55) 
 
